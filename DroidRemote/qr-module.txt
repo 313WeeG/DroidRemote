@@ -4,5 +4,3 @@ python -m pip install "qrcode[pil]" --upgrade --break-system-packages
 sed -i 's/import QR code/import qrcode/g' ~/droid_remote.py 2>/dev/null
 sed -i 's/qrcode/qrcode/g' ~/droid_remote.py
 
-
-DroidRemote
