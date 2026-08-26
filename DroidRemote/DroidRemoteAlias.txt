@@ -1,0 +1,3 @@
+# 4. Create the same "DroidRemote" shortcut alias inside Termux or Kali.
+
+echo "alias DroidRemote='python ~/droid_remote.py'" >> ~/.bashrc && source ~/.bashrc
