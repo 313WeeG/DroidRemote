@@ -1,0 +1,3 @@
+pkg update && pkg upgrade -y pkg install python python-pip libjpeg-turbo play-audio -y 
+
+pip install zeroconf qrcode pillow --break-system-packages 
