@@ -1,1 +1,0 @@
-python3 droid_remote.py
